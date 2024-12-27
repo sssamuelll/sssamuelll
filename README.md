@@ -32,7 +32,7 @@ I'm an **Electronic Engineer** and **Full-Stack Developer** with over **5 years 
 
 ## 📬 **Let's Connect!**
 - 💼 [LinkedIn](https://www.linkedin.com/in/samueldarioballesteros)
-- 📧 Email: [correo@samueldar.io](mailto:samueldarioballesteros@gmail.com)
+- 📧 Email: [samueldarioballesteros@gmail.com](mailto:samueldarioballesteros@gmail.com)
 
 ---
 
