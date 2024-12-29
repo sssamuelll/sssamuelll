@@ -23,7 +23,7 @@ I'm an **Electronic Engineer** and **Full-Stack Developer** with over **5 years 
 ---
 
 ## 🌟 **Highlighted Projects**
-- 🎯 **[SAM-17 Modular Analog Synthesizer]([https://www.academia.edu/74667554/Sintetizador_Analógico_Modular])**  
+- 🎯 **[SAM-17 Modular Analog Synthesizer]([https://www.academia.edu/74667554/Sintetizador_Analógico_Modular]](https://github.com/sssamuelll/analog-modular-synthesizer)])**  
    *A modular synthesizer integrating analog and digital systems with Raspberry Pi.*  
 
 *👉 Check out more projects in my [repositories](https://github.com/sssamuelll?tab=repositories).*
