@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **Samuel Ballesteros**!  
+# 👋 Hi there, I'm **Samuel**!  
 
 I'm an **Electronic Engineer** and **Full-Stack Developer** with over **5 years of experience** designing impactful digital solutions. My passion lies in building **scalable applications**, improving **user experiences**, and tackling **complex technical challenges**.
 
@@ -37,7 +37,7 @@ I'm an **Electronic Engineer** and **Full-Stack Developer** with over **5 years 
 ---
 
 ## 🎵 **Fun Fact About Me**
-When I'm not coding, you'll probably find me **playing my Telecaster guitar**, experimenting with **analog synthesizers**, or exploring new cities around the globe.  
+When I'm not coding, you'll probably find me **playing my Telecaster**, experimenting with **analog synthesizers**, or exploring new cities around the globe.  
 
 ---
 
