@@ -2,7 +2,7 @@
 
 **Software Composer · Music Developer · Digital Nomad**  
 
-I’m an **Electronic Engineer** and **Full-Stack Developer** blending code, music, and design into scalable digital solutions. Over the past **5+ years**, I’ve built everything from **real-time apps and data dashboards** to **analog synthesizers and embedded systems**.  
+I turn complex systems into elegant experiences — whether through code, sound, or design. Over the past **5+ years**, I’ve built everything from **real-time apps and data dashboards** to **analog synthesizers and embedded systems**.  
 
 What drives me? The same thing that drives my music: **clarity, rhythm, and flow.**  
 
@@ -18,11 +18,11 @@ What drives me? The same thing that drives my music: **clarity, rhythm, and flow
 ---
 
 ## 🧠 **Tech Stack**
-**Frontend:** React.js, Flutter, HTML, CSS, JavaScript/TypeScript  
-**Backend:** Node.js, Go, Python, PHP  
-**Embedded Systems:** Arduino, Raspberry Pi, PIC, ESP32  
+**Frontend(main):** React.js, Flutter, HTML, CSS, JavaScript/TypeScript  
+**Backend:** Node.js, Python, PHP  
+**Embedded Systems:** C++, Assembler   
 **DevOps:** Docker, Nginx, Jenkins  
-**Databases:** MySQL, MongoDB  
+**Databases:** MySQL, MongoDB, MariaDB
 
 ---
 
@@ -37,6 +37,7 @@ What drives me? The same thing that drives my music: **clarity, rhythm, and flow
    *Python tool that scrapes tech job boards and sends live updates to Telegram.*  
 
 👉 Find more experiments and builds in my [repositories](https://github.com/sssamuelll?tab=repositories).  
+🧭 Explore my [portfolio](https://www.sdar.dev/)  
 
 ---
 
@@ -50,7 +51,7 @@ What drives me? The same thing that drives my music: **clarity, rhythm, and flow
 ---
 
 ## 🎵 **Fun Fact About Me**
-When I'm not coding, you'll probably find me **playing my Telecaster**, experimenting with **analog synthesizers**, or exploring new cities around the globe.  
+When I'm not coding, you'll probably find me **playing my Telecaster**, experimenting with **analog synthesizers**, hanging around with **my girlfriend** or exploring new cities around the globe.
 
 ---
 
