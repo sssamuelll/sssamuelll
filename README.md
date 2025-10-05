@@ -1,3 +1,9 @@
+---
+
+⭐ **If you like what you see, feel free to follow me and star some repos!**  
+
+---
+
 # 👋 Hey, I’m **Samuel Ballesteros**  
 
 **Software Composer · Music Developer · Digital Nomad**  
@@ -55,4 +61,4 @@ When I'm not coding, you'll probably find me **playing my Telecaster**, experime
 
 ---
 
-⭐ **If you like what you see, feel free to follow me and star some repos!**  
+**Where logic meets emotion — that’s where I build.**  
