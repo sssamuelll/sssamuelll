@@ -28,13 +28,13 @@ What drives me? The same thing that drives my music: **clarity, rhythm, and flow
 
 ## 🌟 **Highlighted Projects**
 - 🎹 **[SAM-17 Modular Analog Synthesizer](https://youtu.be/U-ROBm5uAJs?si=TliPE46rhpOfe2zv)**  
-   *A custom modular synth integrating analog circuits with Raspberry Pi MIDI control.*  
+   *A modular synth combining analog circuits with Raspberry Pi MIDI control.*  
 
 - 🏙️ **[RealEstateNYC](https://www.sdar.dev/newyorkmoves)**  
-   *AI-powered chat platform to simplify apartment hunting in NYC.*  
+   *AI-powered chat platform simplifying NYC apartment hunting.*  
 
 - 🛠️ **[JobStalker](https://github.com/sssamuelll/jobstalker)**  
-   *Python tool that scrapes tech job boards and sends live updates to Telegram.*  
+   *A Python tool scraping tech job boards and sending live Telegram updates.*  
 
 👉 Find more experiments and builds in my [repositories](https://github.com/sssamuelll?tab=repositories).  
 🧭 Explore my [portfolio](https://www.sdar.dev/)  
