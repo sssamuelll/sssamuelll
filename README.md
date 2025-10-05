@@ -11,6 +11,11 @@ I turn complex systems into elegant experiences — whether through code, sound,
 What drives me? The same thing that drives my music: **clarity, rhythm, and flow.**  
 
 ---
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## 🚀 **What I Do**
 - 🎨 Build intuitive frontends with **React** & **Flutter**  
@@ -23,7 +28,7 @@ What drives me? The same thing that drives my music: **clarity, rhythm, and flow
 
 ## 🧠 **Tech Stack**
 **Frontend(main):** React.js, Flutter, HTML, CSS, JavaScript/TypeScript  
-**Backend:** Node.js, Python, PHP  
+**Backend:** Go, Node.js, Python, PHP  
 **Embedded Systems:** C++, Assembler   
 **DevOps:** Docker, Nginx, Jenkins  
 **Databases:** MySQL, MongoDB, MariaDB
