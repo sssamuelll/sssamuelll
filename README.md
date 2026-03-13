@@ -2,7 +2,7 @@
 
 ---
 
-# 👋 Hey, I’m **Samuel Ballesteros**  
+# 👋 Hey, I’m **Samuel**  
 
 **Software Composer · Music Developer · Digital Nomad**  
 
