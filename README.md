@@ -4,7 +4,7 @@
 
 # 👋 Hey, I’m **Samuel**  
 
-**Software Composer · Music Developer · Digital Nomad**  
+**Software Composer · Music Developer**  
 
 I turn complex systems into elegant experiences — whether through code, sound, or design. Over the past **5+ years**, I’ve built everything from **real-time apps and data dashboards** to **analog synthesizers and embedded systems**.  
 
