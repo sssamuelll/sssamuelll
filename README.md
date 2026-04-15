@@ -1,6 +1,6 @@
 # Samuel Ballesteros
 
-Electronic engineer from Venezuela, building software full-time. I work with AI coding agents as part of my development workflow — I direct, review, and ship. That explains the commit velocity. Currently in Germany, probably with a Telecaster nearby.
+Electronic engineer from Venezuela, building software full-time. I work with AI coding agents as part of my development workflow — I direct, review, and ship. Currently in Germany, probably with a Telecaster nearby.
 
 ## What I'm working on
 
