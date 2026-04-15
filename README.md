@@ -14,7 +14,7 @@ Full-stack developer and electronic engineer from Venezuela. I build software, h
 
 ## Hardware
 
-Before I wrote software full-time, I studied electronic engineering — and I still build things that make noise. The SAM-18 is a modular analog synthesizer controlled via MIDI through a Raspberry Pi. Analog warmth, digital precision.
+Before I wrote software full-time, I studied electronic engineering — and I still build things that make noise. The SAM-17 is a modular analog synthesizer controlled via MIDI through a Raspberry Pi. Analog warmth, digital precision.
 
 [Video demo](https://youtu.be/U-ROBm5uAJs) · [Schematics](https://github.com/sssamuelll/analog-modular-synthesizer) · [MIDI-to-CV module](https://github.com/sssamuelll/midi2cvUSB)
 
