@@ -4,11 +4,13 @@ Electronic engineer from Venezuela, building software full time. I work with AI 
 
 ## What I'm working on
 
-**[OpenClo](https://github.com/sssamuelll/openclo)** — Open source 2D pattern editor + 3D garment visualization in the browser. TypeScript frontend with a Rust/WASM physics engine.
+**[OpenClo](https://github.com/sssamuelll/openclo)** — Open source 2D pattern editor + 3D garment visualization in the browser. TypeScript frontend with a Rust/WASM physics engine. [Live demo](https://openclo.sdar.dev)
 
 **[Nido](https://github.com/sssamuelll/nido)** — Mobile-first expense tracker for couples. React + Express + SQLite, WebAuthn passkeys, billing cycles, budget approval flow. My girlfriend and I use it daily.
 
-**[ABC](https://github.com/sssamuelll/abc)** — Portfolio website for art director Angelica Burgos. React + TypeScript frontend with a headless WordPress backend, 8-language support via i18next, and automated CI/CD deployments.
+**[ABC](https://github.com/sssamuelll/abc)** — Portfolio website for art director Angelica Burgos. React + TypeScript frontend with a headless WordPress backend, 8-language support via i18next, and automated CI/CD deployments. [angelicaburgos.art](https://angelicaburgos.art)
+
+**[Joudy](https://joudyjoudyjoudy.com)** — Homepage for Joudy, a band from New York. [joudyjoudyjoudy.com](https://joudyjoudyjoudy.com)
 
 **[CopyClip](https://github.com/sssamuelll/copyclip)** — Context compiler and project intelligence dashboard for AI-assisted development.
 
