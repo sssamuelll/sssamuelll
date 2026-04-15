@@ -4,7 +4,7 @@ Electronic engineer from Venezuela, building software full time. I work with AI 
 
 ## What I'm working on
 
-**[OpenClo](https://github.com/sssamuelll/openclo)** — Open source 2D pattern editor + 3D garment visualization in the browser. TypeScript frontend with a Rust/WASM physics engine. On a deliberate pause to rethink the approach before pushing to launch.
+**[OpenClo](https://github.com/sssamuelll/openclo)** — Open source 2D pattern editor + 3D garment visualization in the browser. TypeScript frontend with a Rust/WASM physics engine.
 
 **[Nido](https://github.com/sssamuelll/nido)** — Mobile-first expense tracker for couples. React + Express + SQLite, WebAuthn passkeys, billing cycles, budget approval flow. My girlfriend and I use it daily.
 
