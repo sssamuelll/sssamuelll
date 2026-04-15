@@ -6,11 +6,11 @@ Full-stack developer and electronic engineer from Venezuela. I build software, h
 
 **[OpenClo](https://github.com/sssamuelll/openclo)** — Open source 2D pattern editor + 3D garment visualization in the browser. TypeScript frontend with a Rust/WASM physics engine. My most ambitious project to date — on a deliberate pause to rethink the approach before pushing to launch.
 
+**[Nido](https://github.com/sssamuelll/nido)** — Mobile-first expense tracker for couples. React + Express + SQLite, WebAuthn passkeys, billing cycles, budget approval flow. My girlfriend and I use it daily.
+
 **[CopyClip](https://github.com/sssamuelll/copyclip)** — Context compiler and project intelligence dashboard for AI-assisted development. Built in Python, already in daily use.
 
 **[Trading Spacial](https://github.com/sssimon/trading-spacial)** — A trading signal scanner and position tracker I'm building with my dad. He brings decades of market experience, I bring the code. Python backend, React dashboard, Telegram alerts.
-
-I also maintain a shared finance tracker that my girlfriend and I use daily.
 
 ## Hardware
 
