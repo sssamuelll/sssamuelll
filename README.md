@@ -1,14 +1,14 @@
 # Samuel Ballesteros
 
-Full-stack developer and electronic engineer from Venezuela. I build software, hardware, and the occasional synthesizer. Currently somewhere between cities, probably with a Telecaster nearby.
+Full-stack developer and electronic engineer from Venezuela. I build software, hardware, and the occasional synthesizer. Currently in Germany, probably with a Telecaster nearby.
 
 ## What I'm working on
 
-**[OpenClo](https://github.com/sssamuelll/openclo)** — Open source 2D pattern editor + 3D garment visualization in the browser. TypeScript frontend with a Rust/WASM physics engine. My most ambitious project to date — currently on a deliberate pause to rethink the approach before pushing to launch.
+**[OpenClo](https://github.com/sssamuelll/openclo)** — Open source 2D pattern editor + 3D garment visualization in the browser. TypeScript frontend with a Rust/WASM physics engine. My most ambitious project to date — on a deliberate pause to rethink the approach before pushing to launch.
 
 **[CopyClip](https://github.com/sssamuelll/copyclip)** — Context compiler and project intelligence dashboard for AI-assisted development. Built in Python, already in daily use.
 
-I also maintain a couple of private production apps (a shared finance tracker for my household, a trading signal system) and take on freelance projects when they catch my attention.
+I'm also building a trading signal system with my dad — he brings the market experience, I bring the code. And I maintain a shared finance tracker that my girlfriend and I use daily.
 
 ## Hardware
 
