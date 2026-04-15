@@ -8,7 +8,9 @@ Full-stack developer and electronic engineer from Venezuela. I build software, h
 
 **[CopyClip](https://github.com/sssamuelll/copyclip)** — Context compiler and project intelligence dashboard for AI-assisted development. Built in Python, already in daily use.
 
-I'm also building a trading signal system with my dad — he brings the market experience, I bring the code. And I maintain a shared finance tracker that my girlfriend and I use daily.
+**[Trading Spacial](https://github.com/sssimon/trading-spacial)** — A trading signal scanner and position tracker I'm building with my dad. He brings decades of market experience, I bring the code. Python backend, React dashboard, Telegram alerts.
+
+I also maintain a shared finance tracker that my girlfriend and I use daily.
 
 ## Hardware
 
