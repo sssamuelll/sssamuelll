@@ -18,9 +18,9 @@ Before I wrote software full-time, I studied electronic engineering — and I st
 
 ## Stack
 
-TypeScript, React, Node.js, Go, Python, Rust, PHP. Postgres, SQLite, MongoDB. Docker, Nginx. C++ and Assembly for embedded work (Arduino, ESP32, Raspberry Pi).
+TypeScript, React, Node.js, Python, Rust, PHP. Postgres, SQLite, MongoDB. Docker, Nginx. C++ and Assembly for embedded work (Arduino, ESP32, Raspberry Pi).
 
-I pick whatever fits the problem. Most of my recent work is TypeScript + React on the front and Node or Go on the back.
+I pick whatever fits the problem. Most of my recent work is TypeScript + React on the front and Node or Python on the back.
 
 ## Contact
 
