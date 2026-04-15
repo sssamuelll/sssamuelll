@@ -8,6 +8,8 @@ Electronic engineer from Venezuela, building software full time. I work with AI 
 
 **[Nido](https://github.com/sssamuelll/nido)** — Mobile-first expense tracker for couples. React + Express + SQLite, WebAuthn passkeys, billing cycles, budget approval flow. My girlfriend and I use it daily.
 
+**[ABC](https://github.com/sssamuelll/abc)** — Portfolio website for art director Angelica Burgos. React + TypeScript frontend with a headless WordPress backend, 8-language support via i18next, and automated CI/CD deployments.
+
 **[CopyClip](https://github.com/sssamuelll/copyclip)** — Context compiler and project intelligence dashboard for AI-assisted development.
 
 **[Trading Spacial](https://github.com/sssimon/trading-spacial)** — Trading signal scanner and position tracker I'm building with my dad. He brings decades of market experience, I bring the code. Python backend, React dashboard, Telegram alerts.
