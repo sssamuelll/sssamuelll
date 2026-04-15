@@ -1,6 +1,6 @@
 # Samuel Ballesteros
 
-Full-stack developer and electronic engineer from Venezuela. I build software, hardware, and occasionally synthesizers. Currently in Germany, probably with a Telecaster nearby.
+Electronic engineer and musician from Venezuela. I build software, hardware, and occasionally synthesizers. Currently in Germany, probably with a Telecaster nearby.
 
 ## What I'm working on
 
